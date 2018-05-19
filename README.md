@@ -37,21 +37,21 @@ Identify the parts of the IDE, the File Tree, which lists Folders and Files, the
 
 ![IDE](https://cl.ly/r3tL/Image%202018-04-21%20at%205.55.12%20PM.png)
 
-### `pwd`
+### `pwd`: Print Working Directory 
 
 We're going to learn about the command line by planning for a trip. In IDE Sandbox, your terminal is located at the bottom of the screen. In your terminal, type `pwd`. (stop and have all students do this) `pwd` stands for print working directory. It will tell you where you are currently "standing" in terms of directories. A directory is just a fancy shmancy word for a folder.
 
 A directory can contain one of two things - files or other directories. The directories on your computer are nested inside of each other, like a Russian doll or a tree structure. (draw the tree structure out as you build it)
 
-### `ls`
+### `ls`: List 
 
 Let's check what directories are within the directory where you are standing by using `ls`, which stands for list (have students do this).
 
-### `mkdir`
+### `mkdir`: Make Directory 
 
 Create a new directory called "development", using `mkdir`. This stands for make directory. (have students do this) `mkdir development`
 
-### `cd`
+### `cd`: Command 
 
 Change directories using `cd` command. `cd` into development. (stop and have all students do this) `cd development`
 
