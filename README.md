@@ -33,7 +33,11 @@ Learn gives all students a Sandbox Developer Environment so that they can play w
 
 Have the students all open their Sandbox.
 
-Identify the parts of the IDE, the File Tree, which lists Folders and Files, the Text Editor, where they right code, and the Terminal, where they execute Command Line instructions. Have them focus on the terminal by clicking on it.
+### PARTS OF THE SANDBOX/IDE
+1. The File Tree - This lists folders and files that you have in your IDE.
+1. The Text Editor - This is where you write code.
+1. The Terminal - This is where you execute command line instructions a.k.a. where you tell the program to run your code.
+
 
 ![IDE](https://cl.ly/r3tL/Image%202018-04-21%20at%205.55.12%20PM.png)
 
